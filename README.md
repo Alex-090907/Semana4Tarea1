@@ -56,7 +56,9 @@ lblEstado.MouseEnter += (s, e) => lblEstado.Cursor = Cursors.Hand;
 
 ## Capturas
 
-(Agrega aquí tus capturas de pantalla)
+<img width="344" height="367" alt="Captura de pantalla 2026-11-21 131215" src="https://github.com/user-attachments/assets/f464af2e-b6b0-4b95-b8c6-d8069e2a177c" />
+<img width="350" height="361" alt="Captura de pantalla 2026-11-21 131459" src="https://github.com/user-attachments/assets/899764c7-8463-4578-843c-a93dfb81f1c1" />
+
 
 ## Cómo ejecutar
 
